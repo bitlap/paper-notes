@@ -7,7 +7,7 @@
 - [A review on thermal runaway warning technology for lithium-ion batteries](https://doi.org/10.1016/j.rser.2024.114882)
 - [State of charge-dependent failure prediction model for cylindrical lithium-ion batteries under mechanical abuse](https://doi.org/10.1016/j.apenergy.2019.113365)
 
-**寿命预测相关**
+**寿命和性能相关**
 - [A Semi-Empirical Capacity Degradation Model of EV Li-Ion Batteries Based on Eyring Equation](https://doi.org/10.1109/VPPC.2013.6671660)
 - [Capacity attenuation mechanism modeling and health assessment of lithium-ion batteries](https://doi.org/10.1016/j.energy.2020.119682)
 - [Calendar aging model for lithium-ion batteries considering the influence of cell characterization](https://doi.org/10.1016/j.est.2021.103506)
@@ -19,8 +19,6 @@
 - [Review and Performance Comparison of Mechanical-Chemical Degradation Models for Lithium-Ion Batteries](https://doi.org/10.1149/2.0281914jes)
 - [Lithium-ion battery degradation modelling using universal differential equations: Development of a cost-effective parameterisation methodology](https://doi.org/10.1016/j.apenergy.2024.125221)
 - [Lithium-ion battery degradation: how to model it](https://doi.org/10.1039/D2CP00417H)
-
-**拐点相关**
 
 # 算法相关
  - [Transformer Explainer: Interactive Learning of Text-Generative Models](https://arxiv.org/abs/2408.04619)
