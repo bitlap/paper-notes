@@ -4,21 +4,15 @@
 # 电池算法
 
 **失效和热失控相关**
-- [A review on thermal runaway warning technology for lithium-ion batteries](https://doi.org/10.1016/j.rser.2024.114882)
-- [State of charge-dependent failure prediction model for cylindrical lithium-ion batteries under mechanical abuse](https://doi.org/10.1016/j.apenergy.2019.113365)
 
 **寿命和性能相关**
-- [A Semi-Empirical Capacity Degradation Model of EV Li-Ion Batteries Based on Eyring Equation](https://doi.org/10.1109/VPPC.2013.6671660)
-- [Capacity attenuation mechanism modeling and health assessment of lithium-ion batteries](https://doi.org/10.1016/j.energy.2020.119682)
 - [Calendar aging model for lithium-ion batteries considering the influence of cell characterization](https://doi.org/10.1016/j.est.2021.103506)
-- [Modeling of lithium plating induced aging of lithium-ion batteries: Transition from linear to nonlinear aging](https://doi.org/10.1016/j.jpowsour.2017.05.110)
-- [Lifetime prediction of rechargeable lithium-ion battery using multi-physics and multiscale model](https://doi.org/10.1016/j.jpowsour.2024.234622)
-- [Modeling mechanical degradation in lithium ion batteries during cycling: Solid electrolyte interphase fracture](https://doi.org/10.1016/j.jpowsour.2015.09.033)
-- [Predict the lifetime of lithium-ion batteries using early cycles: A review](https://doi.org/10.1016/j.apenergy.2024.124171)
 - [Degradation diagnostics for lithium ion cells](https://doi.org/10.1016/j.jpowsour.2016.12.011)
 - [Review and Performance Comparison of Mechanical-Chemical Degradation Models for Lithium-Ion Batteries](https://doi.org/10.1149/2.0281914jes)
 - [Lithium-ion battery degradation modelling using universal differential equations: Development of a cost-effective parameterisation methodology](https://doi.org/10.1016/j.apenergy.2024.125221)
 - [Lithium-ion battery degradation: how to model it](https://doi.org/10.1039/D2CP00417H)
+- [Physics-informed neural network for lithium-ion battery degradation stable modeling and prognosis](https://doi.org/10.1038/s41467-024-48779-z)
+- [Physics-Informed Neural Networks for State of Health Estimation in Lithium-Ion Batteries](https://doi.org/10.1149/1945-7111/acf0ef)
 
 # 算法相关
  - [Transformer Explainer: Interactive Learning of Text-Generative Models](https://arxiv.org/abs/2408.04619)
