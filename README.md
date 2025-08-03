@@ -23,7 +23,7 @@
 - [Algorithm to Determine the Knee Point on Capacity Fade Curves of Lithium-Ion Cells](https://doi.org/10.3390/en12152910)
 - [Identification and machine learning prediction of knee-point and knee-onset in capacity degradation curves of lithium-ion cells](https://doi.org/10.1016/j.egyai.2020.100006)
 
-# 算法相关
+# 其他算法
  - [Transformer Explainer: Interactive Learning of Text-Generative Models](https://arxiv.org/abs/2408.04619)
  - [A physics-informed neural network enhanced importance sampling (PINN-IS) for data-free reliability analysis](https://doi.org/10.1016/j.probengmech.2024.103701)
  - [Respecting causality is all you need for training physics-informed neural networks](https://arxiv.org/abs/2203.07404)
