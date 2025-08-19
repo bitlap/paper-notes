@@ -4,6 +4,7 @@
 # 电池论文
 
 **失效和热失控相关**
+- [The critical importance of stack pressure in batteries](https://www.nature.com/articles/s41560-025-01820-x)
 
 **寿命和性能相关**
 - [Calendar aging model for lithium-ion batteries considering the influence of cell characterization](https://doi.org/10.1016/j.est.2021.103506)
