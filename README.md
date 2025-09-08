@@ -24,6 +24,7 @@
 - [Algorithm to Determine the Knee Point on Capacity Fade Curves of Lithium-Ion Cells](https://doi.org/10.3390/en12152910)
 - [Identification and machine learning prediction of knee-point and knee-onset in capacity degradation curves of lithium-ion cells](https://doi.org/10.1016/j.egyai.2020.100006)
 - [Dynamic double similarity fusion based on ΔQ power law for early-cycle RUL prediction of lithium-ion batteries](https://doi.org/10.1016/j.ijoes.2025.101102)
+- [A generic physics-informed machine learning framework for battery remaining useful life prediction using small early-stage lifecycle data](https://doi.org/10.1016/j.apenergy.2025.125314)
 
 # 其他论文
  - [Transformer Explainer: Interactive Learning of Text-Generative Models](https://arxiv.org/abs/2408.04619)
