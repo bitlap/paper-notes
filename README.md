@@ -25,6 +25,11 @@
 - [Identification and machine learning prediction of knee-point and knee-onset in capacity degradation curves of lithium-ion cells](https://doi.org/10.1016/j.egyai.2020.100006)
 - [Dynamic double similarity fusion based on ΔQ power law for early-cycle RUL prediction of lithium-ion batteries](https://doi.org/10.1016/j.ijoes.2025.101102)
 - [A generic physics-informed machine learning framework for battery remaining useful life prediction using small early-stage lifecycle data](https://doi.org/10.1016/j.apenergy.2025.125314)
+- [Degradation Curve Prediction of Lithium-Ion Batteries Based on Knee Point Detection Algorithm and Convolutional Neural Network](https://doi.org/10.1109/TIM.2022.3181307)
+- [Detection of abnormal SOH estimates in battery field data using statistical learning](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00387-X)
+- [Battery lifetime prediction across diverse ageing conditions with inter-cell deep learning](https://doi.org/10.1038/s42256-024-00972-x)
+- [State-of-health estimation and knee point identification of lithium-ion battery based on data-driven and mechanism model](https://doi.org/10.1016/j.apenergy.2025.125539)
+- [Nonlinear aging knee-point prediction for lithium-ion batteries faced with different application scenarios](https://doi.org/10.1016/j.etran.2023.100270) 
 
 # 其他论文
  - [Transformer Explainer: Interactive Learning of Text-Generative Models](https://arxiv.org/abs/2408.04619)
