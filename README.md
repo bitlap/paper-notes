@@ -31,7 +31,7 @@
 - [State-of-health estimation and knee point identification of lithium-ion battery based on data-driven and mechanism model](https://doi.org/10.1016/j.apenergy.2025.125539)
 - [Nonlinear aging knee-point prediction for lithium-ion batteries faced with different application scenarios](https://doi.org/10.1016/j.etran.2023.100270) 
 - [Research on the remaining useful life prediction method for lithium-ion batteries by fusion of feature engineering and deep learning](https://doi.org/10.1016/j.apenergy.2023.122325)
-
+- [A Comprehensive Review on Lithium-Ion Battery Lifetime Prediction and Aging Mechanism Analysis](https://doi.org/10.3390/batteries11040127)
 
 # 其他论文
  - [Transformer Explainer: Interactive Learning of Text-Generative Models](https://arxiv.org/abs/2408.04619)
