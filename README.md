@@ -31,7 +31,6 @@
 - [State-of-health estimation and knee point identification of lithium-ion battery based on data-driven and mechanism model](https://doi.org/10.1016/j.apenergy.2025.125539)
 - [Nonlinear aging knee-point prediction for lithium-ion batteries faced with different application scenarios](https://doi.org/10.1016/j.etran.2023.100270) 
 - [Research on the remaining useful life prediction method for lithium-ion batteries by fusion of feature engineering and deep learning](https://doi.org/10.1016/j.apenergy.2023.122325)
-- [Battery lifetime prediction across diverse ageing conditions with inter-cell deep learning](https://www.nature.com/articles/s42256-024-00972-x)
 
 
 # 其他论文
