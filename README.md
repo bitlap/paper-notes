@@ -58,7 +58,7 @@
 - [​​InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation​​](https://arxiv.org/abs/2309.06380)
 - [​​Flow-GRPO: Training Flow Matching Models via Online RL​​](https://arxiv.org/abs/2505.05470)
 - [​​Compute Only 16 Tokens in One Timestep: Accelerating Diffusion Transformers with Cluster-Driven Feature Caching (ClusCa)​​](https://arxiv.org/abs/2509.10312)
-- [​​Denoising Diffusion Probabilistic Models (DDPM)​​](https://arxiv.org/abs/2006.11239)    |    [DDPM](./papers/DDPM.md)
+- [​​Denoising Diffusion Probabilistic Models (DDPM)​​](https://arxiv.org/abs/2006.11239)    |    [中文解读](./papers/DDPM.md)
 - [​​High-Resolution Image Synthesis with Latent Diffusion Models (LDM/SD)​​](https://arxiv.org/abs/2112.10752)
 - [​​Denoising Diffusion Implicit Models (DDIM)​​](https://arxiv.org/abs/2010.02502)
 - [​​Elucidating the Design Space of Diffusion-Based Generative Models (EDM)​​](https://arxiv.org/abs/2206.00364)
