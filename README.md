@@ -34,16 +34,14 @@
 - [Research on the remaining useful life prediction method for lithium-ion batteries by fusion of feature engineering and deep learning](https://doi.org/10.1016/j.apenergy.2023.122325)
 - [A Comprehensive Review on Lithium-Ion Battery Lifetime Prediction and Aging Mechanism Analysis](https://doi.org/10.3390/batteries11040127)
 
-# 其他论文
-- [Transformer Explainer: Interactive Learning of Text-Generative Models](https://arxiv.org/abs/2408.04619)
-- [A physics-informed neural network enhanced importance sampling (PINN-IS) for data-free reliability analysis](https://doi.org/10.1016/j.probengmech.2024.103701)
-- [Respecting causality is all you need for training physics-informed neural networks](https://arxiv.org/abs/2203.07404)
-- [From local explanations to global understanding with explainable AI for trees](https://doi.org/10.1038/s42256-019-0138-9) 
-- [Accurate predictions on small data with a tabular foundation model](https://doi.org/10.1038/s41586-024-08328-6) 
-- [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874) 
-- [Attention Is All You Need](https://arxiv.org/abs/1706.03762) 
+
+# PINNs
 - [Deeppipe: A two-stage physics-informed neural network for predicting mixed oil concentration distribution](https://doi.org/10.1016/j.energy.2023.127452)
-- [Vision Transformers: State of the Art and Research Challenges](https://arxiv.org/abs/2207.03041)
+- [Respecting causality is all you need for training physics-informed neural networks](https://arxiv.org/abs/2203.07404)
+- [A physics-informed neural network enhanced importance sampling (PINN-IS) for data-free reliability analysis](https://doi.org/10.1016/j.probengmech.2024.103701)
+
+
+# PDEs
 - [Discovery of partial differential equations from highly noisy and sparse data with physics-informed information criterion](https://doi.org/10.48550/arXiv.2208.03322)
 - [A Kernel Approach for PDE Discovery and Operator Learning](https://doi.org/10.48550/arXiv.2210.08140)
 - [Noise-aware physics-informed machine learning for robust PDE discovery](https://doi.org/10.1088/2632-2153/acb1f0)
@@ -59,6 +57,14 @@
 - [​​Flow-GRPO: Training Flow Matching Models via Online RL​​](https://arxiv.org/abs/2505.05470)
 - [​​Compute Only 16 Tokens in One Timestep: Accelerating Diffusion Transformers with Cluster-Driven Feature Caching (ClusCa)​​](https://arxiv.org/abs/2509.10312)
 - [​​Denoising Diffusion Probabilistic Models (DDPM)​​](https://arxiv.org/abs/2006.11239)    |    [中文解读](./papers/DDPM.md)
-- [​​High-Resolution Image Synthesis with Latent Diffusion Models (LDM/SD)​​](https://arxiv.org/abs/2112.10752)
+- [​​High-Resolution Image Synthesis with Latent Diffusion Models (LDM/SD)​​](https://arxiv.org/abs/2112.10752)    |    [中文解读](./papers/LDM_SD.md)
 - [​​Denoising Diffusion Implicit Models (DDIM)​​](https://arxiv.org/abs/2010.02502)
 - [​​Elucidating the Design Space of Diffusion-Based Generative Models (EDM)​​](https://arxiv.org/abs/2206.00364)
+
+# 其他算法
+- [Transformer Explainer: Interactive Learning of Text-Generative Models](https://arxiv.org/abs/2408.04619)
+- [From local explanations to global understanding with explainable AI for trees](https://doi.org/10.1038/s42256-019-0138-9) 
+- [Accurate predictions on small data with a tabular foundation model](https://doi.org/10.1038/s41586-024-08328-6) 
+- [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874) 
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762) 
+- [Vision Transformers: State of the Art and Research Challenges](https://arxiv.org/abs/2207.03041)
