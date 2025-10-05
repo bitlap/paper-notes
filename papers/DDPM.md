@@ -123,7 +123,7 @@ Denoising Diffusion Probabilistic Models - 使用腾讯元宝翻译整理
 *   **学习方差**: 导致训练不稳定和差的结果。
 
 **3. 目标函数 (Objective)**:
-*   `L_simple` ** > ** `L`。简化目标通过让模型专注于高噪声水平的困难去噪任务，显著提升了样本质量。
+*   `L_simple` **>** `L`。简化目标通过让模型专注于高噪声水平的困难去噪任务，显著提升了样本质量。
 
 ### 4.3 渐进编码与生成 (Progressive Coding)
 
