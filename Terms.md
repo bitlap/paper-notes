@@ -1,13 +1,10 @@
 # 机器学习论文常见术语详解
 
-## 目录
-1.  [FID (Fréchet Inception Distance)](#fid-fréchet-inception-distance)
-2.  [SOTA (State Of The Art)](#sota-state-of-the-art)
-3.  [GPU Days (GPU天)](#gpu-days-gpu天)
-
 ---
 
-## 1. FID (Fréchet Inception Distance)
+## 1. FID
+
+Fréchet Inception Distance
 
 ### 是什么
 FID 是**评估生成模型**（如 GAN、扩散模型）**性能的核心指标之一**。它用于衡量**生成图像**的分布与**真实图像**的分布之间的差异。
@@ -32,7 +29,9 @@ $$ \text{FID} = \|\mu_r - \mu_g\|^2 + \text{Tr}(\Sigma_r + \Sigma_g - 2(\Sigma_r
 
 ---
 
-## 2. SOTA (State Of The Art)
+## 2. SOTA 
+
+State Of The Art
 
 ### 是什么
 SOTA 指的是在某个特定时间点，**在某一特定任务或数据集上表现最好的模型或方法**。
@@ -46,7 +45,9 @@ SOTA 指的是在某个特定时间点，**在某一特定任务或数据集上�
 
 ---
 
-## 3. GPU Days (GPU天)
+## 3. GPU Days 
+
+GPU天
 
 ### 是什么
 **衡量训练一个深度学习模型所需计算资源和时间的复合单位**。
