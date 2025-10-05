@@ -1,7 +1,7 @@
 论文阅读计划及笔记
 ---
 
-# 电池论文
+# 电池
 
 **失效和热失控相关**
 - [The critical importance of stack pressure in batteries](https://www.nature.com/articles/s41560-025-01820-x)
@@ -61,7 +61,7 @@
 - [​​Denoising Diffusion Implicit Models (DDIM)​​](https://arxiv.org/abs/2010.02502)
 - [​​Elucidating the Design Space of Diffusion-Based Generative Models (EDM)​​](https://arxiv.org/abs/2206.00364)
 
-# 其他算法
+# 其他
 - [Transformer Explainer: Interactive Learning of Text-Generative Models](https://arxiv.org/abs/2408.04619)
 - [From local explanations to global understanding with explainable AI for trees](https://doi.org/10.1038/s42256-019-0138-9) 
 - [Accurate predictions on small data with a tabular foundation model](https://doi.org/10.1038/s41586-024-08328-6) 
