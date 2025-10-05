@@ -1,4 +1,4 @@
-# 使用潜在扩散模型进行高分辨率图像合（LDM/SD）
+# 使用潜在扩散模型进行高分辨率图像合成（LDM/SD）
 
 High-Resolution Image Synthesis with Latent Diffusion Models - 使用腾讯元宝翻译整理
 
