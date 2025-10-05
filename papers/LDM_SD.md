@@ -111,7 +111,7 @@ High-Resolution Image Synthesis with Latent Diffusion Models - 使用腾讯元�
 - **通用SR模型 (LDM-BSR)**：通过多样化退化训练，能泛化到真实世界图像，实用性强。
 
 ### 4.5 图像修复 (Inpainting)
-- **设置**：遵循LaMa协议，在Places数据集上评估。
+- **设置**：遵循​​LaMa论文中提出的实验设置与评估基准​​，在Places数据集上进行训练和评估。
 - **效率**：相比像素扩散模型，**训练和采样加速≥2.7倍**，FID提升≥1.6倍。
 - **性能**：FID指标优于LaMa，生成多样性更丰富（图21）。
 - **用户研究**：人类评估者更偏好LDM的结果。
