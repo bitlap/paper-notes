@@ -8,6 +8,7 @@
 **失效和热失控相关**
 - [The critical importance of stack pressure in batteries](https://www.nature.com/articles/s41560-025-01820-x)
 - [Strategy and mechanism for external-induced recovery of lithium-ion battery internal short circuit](https://doi.org/10.1016/j.xcrp.2025.102836)
+- [Strategy and mechanism for external-induced recovery of lithium-ion battery internal short circuit](https://doi.org/10.1016/j.xcrp.2025.102836)
 
 **寿命和性能相关**
 - [Calendar aging model for lithium-ion batteries considering the influence of cell characterization](https://doi.org/10.1016/j.est.2021.103506)
@@ -33,7 +34,7 @@
 - [Nonlinear aging knee-point prediction for lithium-ion batteries faced with different application scenarios](https://doi.org/10.1016/j.etran.2023.100270) 
 - [Research on the remaining useful life prediction method for lithium-ion batteries by fusion of feature engineering and deep learning](https://doi.org/10.1016/j.apenergy.2023.122325)
 - [A Comprehensive Review on Lithium-Ion Battery Lifetime Prediction and Aging Mechanism Analysis](https://doi.org/10.3390/batteries11040127)
-
+- [Early remaining-useful-life prediction applying discrete wavelet transform combined with improved semi-empirical model for high-fidelity in battery energy storage system](https://doi.org/10.1016/j.energy.2024.131285)
 
 # PINNs
 - [Deeppipe: A two-stage physics-informed neural network for predicting mixed oil concentration distribution](https://doi.org/10.1016/j.energy.2023.127452)
@@ -41,7 +42,7 @@
 - [A physics-informed neural network enhanced importance sampling (PINN-IS) for data-free reliability analysis](https://doi.org/10.1016/j.probengmech.2024.103701)
 - [Physics-Informed Neural Networks for State of Health Estimation in Lithium-Ion Batteries](https://doi.org/10.1149/1945-7111/acf0ef)
 - [Physics-informed neural network for lithium-ion battery degradation stable modeling and prognosis](https://doi.org/10.1038/s41467-024-48779-z)
-
+- [Fatigue-PINN: Physics-Informed Fatigue-Driven Motion Modulation and Synthesis](https://arxiv.org/abs/2502.19056)
 
 # PDEs
 - [Discovery of partial differential equations from highly noisy and sparse data with physics-informed information criterion](https://doi.org/10.48550/arXiv.2208.03322)
@@ -70,3 +71,4 @@
 - [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874) 
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) 
 - [Vision Transformers: State of the Art and Research Challenges](https://arxiv.org/abs/2207.03041)
+- [A predictive approach to enhance time-series forecasting](https://www.nature.com/articles/s41467-025-63786-4)
