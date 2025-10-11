@@ -15,8 +15,6 @@
 - [Review and Performance Comparison of Mechanical-Chemical Degradation Models for Lithium-Ion Batteries](https://doi.org/10.1149/2.0281914jes)
 - [Lithium-ion battery degradation modelling using universal differential equations: Development of a cost-effective parameterisation methodology](https://doi.org/10.1016/j.apenergy.2024.125221)
 - [Lithium-ion battery degradation: how to model it](https://doi.org/10.1039/D2CP00417H)
-- [Physics-informed neural network for lithium-ion battery degradation stable modeling and prognosis](https://doi.org/10.1038/s41467-024-48779-z)
-- [Physics-Informed Neural Networks for State of Health Estimation in Lithium-Ion Batteries](https://doi.org/10.1149/1945-7111/acf0ef)
 - [Learning the P2D Model for Lithium-Ion Batteries with SOH Detection](https://doi.org/10.48550/arXiv.2502.14147)
 - [A Multilayer Doyle-Fuller-Newman Model to Optimise the Rate Performance of Bilayer Cathodes in Li Ion Batteries](https://doi.org/10.1149/1945-7111/ad5767)
 - [A modified Doyle-Fuller-Newman model enables the macroscale physical simulation of dual-ion batteries](https://doi.org/10.1016/j.jpowsour.2023.233429)
@@ -41,6 +39,8 @@
 - [Deeppipe: A two-stage physics-informed neural network for predicting mixed oil concentration distribution](https://doi.org/10.1016/j.energy.2023.127452)
 - [Respecting causality is all you need for training physics-informed neural networks](https://arxiv.org/abs/2203.07404)
 - [A physics-informed neural network enhanced importance sampling (PINN-IS) for data-free reliability analysis](https://doi.org/10.1016/j.probengmech.2024.103701)
+- [Physics-Informed Neural Networks for State of Health Estimation in Lithium-Ion Batteries](https://doi.org/10.1149/1945-7111/acf0ef)
+- [Physics-informed neural network for lithium-ion battery degradation stable modeling and prognosis](https://doi.org/10.1038/s41467-024-48779-z)
 
 
 # PDEs
