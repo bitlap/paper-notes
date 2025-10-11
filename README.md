@@ -74,3 +74,4 @@
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) 
 - [Vision Transformers: State of the Art and Research Challenges](https://arxiv.org/abs/2207.03041)
 - [A predictive approach to enhance time-series forecasting](https://www.nature.com/articles/s41467-025-63786-4)
+- [Goal-oriented Feature Extraction: a novel approach for enhancing data-driven surrogate model](https://arxiv.org/abs/2411.09367)
