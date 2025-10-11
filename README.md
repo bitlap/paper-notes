@@ -8,7 +8,7 @@
 **失效和热失控相关**
 - [The critical importance of stack pressure in batteries](https://www.nature.com/articles/s41560-025-01820-x)
 - [Strategy and mechanism for external-induced recovery of lithium-ion battery internal short circuit](https://doi.org/10.1016/j.xcrp.2025.102836)
-- [Strategy and mechanism for external-induced recovery of lithium-ion battery internal short circuit](https://doi.org/10.1016/j.xcrp.2025.102836)
+- [​​Internal short circuits in lithium-ion batteries; origins, detection, and experimental reproduction: A review​​](https://doi.org/10.1016/j.jpowsour.2025.238265)
 
 **寿命和性能相关**
 - [Calendar aging model for lithium-ion batteries considering the influence of cell characterization](https://doi.org/10.1016/j.est.2021.103506)
