@@ -35,6 +35,7 @@
 - [Research on the remaining useful life prediction method for lithium-ion batteries by fusion of feature engineering and deep learning](https://doi.org/10.1016/j.apenergy.2023.122325)
 - [A Comprehensive Review on Lithium-Ion Battery Lifetime Prediction and Aging Mechanism Analysis](https://doi.org/10.3390/batteries11040127)
 - [Early remaining-useful-life prediction applying discrete wavelet transform combined with improved semi-empirical model for high-fidelity in battery energy storage system](https://doi.org/10.1016/j.energy.2024.131285)
+- [Two-stage deep learning for online prediction of knee-point in Li-ion battery capacity degradation](https://doi.org/10.1016/j.apenergy.2022.120204)
 
 # PINNs
 - [Deeppipe: A two-stage physics-informed neural network for predicting mixed oil concentration distribution](https://doi.org/10.1016/j.energy.2023.127452)
