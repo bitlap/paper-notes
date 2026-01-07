@@ -37,6 +37,7 @@
 - [Early remaining-useful-life prediction applying discrete wavelet transform combined with improved semi-empirical model for high-fidelity in battery energy storage system](https://doi.org/10.1016/j.energy.2024.131285)
 - [Two-stage deep learning for online prediction of knee-point in Li-ion battery capacity degradation](https://doi.org/10.1016/j.apenergy.2022.120204)
 - [​​A novel method for state of health estimation of lithium-ion batteries based on fractional-order differential voltage-capacity curve​​](https://doi.org/10.1016/j.apenergy.2024.124404)
+- [A Novel Sequence-to-Sequence Prediction Model for Lithium-Ion Battery Capacity Degradation Based on Improved Particle Swarm Optimization](https://doi.org/10.3390/batteries9080414)
 
 # PINNs
 - [Deeppipe: A two-stage physics-informed neural network for predicting mixed oil concentration distribution](https://doi.org/10.1016/j.energy.2023.127452)
